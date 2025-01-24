@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi there 👋 Nice to meet you! I'm
+# Hon Wen Xuan / WorstPie🌱
+I'm a full-stack developer who likes to design websites and learn new things. 
 
 <!--
 **honwenxuan/honwenxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
