@@ -29,7 +29,7 @@ I'm a full-stack developer who likes to design websites and learn new things.
 #### University period:
 - [Alex the Courage](https://github.com/honwenxuan/Alex-The-Courage)
   - A game done by using Unity game engine.
-- [Food recipe sharing](https://github.com/honwenxuan/Food_Recipe_Sharing.git)
+- [Food recipe sharing](https://github.com/honwenxuan/Food_Recipe_Sharing)
   - Project done using Laravel framework.
 <!--
 **honwenxuan/honwenxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
