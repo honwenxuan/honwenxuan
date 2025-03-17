@@ -31,6 +31,11 @@ I'm a full-stack developer who likes to design websites and learn new things.
   - A game done by using Unity game engine.
 - [Food recipe sharing Web Application](https://github.com/cwh0430/Food-Recipe-Sharing-Web-App)
   - Group project done using Laravel framework.
+- [Optimisation in Image Processing](https://github.com/honwenxuan/Optimisation-in-Image-Processing)
+  - This is a final-year project. It applies various optimisation methods, such as Steepest Descent, Conjugate Gradient, and Barzilai-Borwein method, to blurred images and recovers them into clearer images. The Armijo rule and Lipschitz inequality are used to find the step size. The whole process is done using Python.
+- dummy
+- dummy
+- dummy
 <!--
 **honwenxuan/honwenxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
